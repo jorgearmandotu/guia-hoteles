@@ -1,0 +1,19 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "bosstrap coursera",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgearmandotu/guia-hoteles.git"
+  },
+  "author": "jorge urbina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgearmandotu/guia-hoteles/issues"
+  },
+  "homepage": "https://github.com/jorgearmandotu/guia-hoteles#readme"
+}
