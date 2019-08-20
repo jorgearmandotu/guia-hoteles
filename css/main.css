@@ -1,6 +1,7 @@
 .jumbotron {
    background-color: yellow;
    color: #000; 
+   
 }
 
 footer {
@@ -18,4 +19,10 @@ footer {
 
 .btn-reserva{
     width: 100%;
+}
+
+.card-products {
+    flex: 1 300px;
+    padding: 3px 5px 3px 5px;
+    margin-top: 20px;
 }
